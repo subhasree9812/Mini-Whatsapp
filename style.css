@@ -1,0 +1,17 @@
+body{
+    margin-left: 20px;
+    background-image: url("My dp.jpeg");
+}.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius:16px;
+    display: inline-block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color:white;
+    padding: 5px 16px;
+    border-radius:16px ;
+    background-image: url("My dp.jpeg");
+}
